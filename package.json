@@ -1,7 +1,7 @@
 {
 	"name": "@steelbreeze/state",
 	"version": "6.0.0-beta.2",
-	"description": "Finite state machine for TypeScript and JavaScript",
+	"description": "Finite state machine for TypeScript and JavaScript, cloned",
 	"main": "lib/node/state.js",
 	"typings": "lib/node/state.d.ts",
 	"directories": {
